@@ -1,5 +1,5 @@
 # Miranda98200
-# 👋 Hello, I'm [Miranda9820] – Aspiring Network & IT Specialist
+# 👋 Hello, I'm Miranda Gentsana – Aspiring Network & IT Specialist
 
 Welcome to my GitHub profile! I’m passionate about technology, communication networks, and network security. I’m on a mission to build resilient digital infrastructure and continuously grow in the IT and AI/ML space.
 
